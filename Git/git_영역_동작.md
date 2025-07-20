@@ -118,6 +118,4 @@ staging area에 있는 파일들을 저장소에 기록 &rightarrow; 해당 시�
 > * 파일명 잘못 만들었을 때: `git mv 원래파일명 고칠파일명`
 >   * `fatal: not under version control`: 원래 파일 저장 안해서 생기는 오류이니 저장을 하고 하던지 아님 걍 mv 해줘도 된다~
 > `rm -rf .git`: 깃 초기화 원상복귀
-
-
-![alt text](<스크린샷 2025-07-20 162845.png>)
+<img width="1831" height="686" alt="스크린샷 2025-07-20 162845" src="https://github.com/user-attachments/assets/cc6fdb67-59dc-4eb4-bdbc-a9ec95fa94b9" />
